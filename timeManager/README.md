@@ -1,4 +1,4 @@
-# time-anagerma
+# time-manager
 
 > first vue-proj
 
